@@ -1,4 +1,5 @@
 /*global describe, it */
+// mocha --timeout 15000
 
 const expect = require('chai').expect
 const babel = require('babel-core')
